@@ -7,7 +7,7 @@ class Logic
     //  Description   : To counting the digits of the numbers
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Atharva Kaustubh Bhutkar
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
