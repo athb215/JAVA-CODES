@@ -6,7 +6,7 @@ class Logic
     //  Description   : To Display N number in reverse 
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Atharva Kaustubh Bhutkar
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
